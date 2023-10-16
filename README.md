@@ -1,5 +1,5 @@
 # ALL-PYTHON-SCRIPTS-OPS-CHALLENGES
-All of my python scripts and progress withing them wiil be uploaded here
+All of my python scripts and progress with the language wiil be uploaded here
 
 # helloworld.py
 Simple python script test
