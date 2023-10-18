@@ -6,3 +6,6 @@ Simple python script test
 
 # ops_challenge_class_06
 Outputs linux commands using python3
+
+# ops_challenge_class_07
+Gives directory information and outputs it to a txt file being the directory and name of  the file provided by the user
