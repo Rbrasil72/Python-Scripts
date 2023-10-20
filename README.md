@@ -12,3 +12,6 @@ Gives directory information and outputs it to a txt file being the directory and
 
 # ops_challenge_class_08
 Multiple list exercices
+
+# ops_challenge_class_09
+Multiple if-elif-else exercices
