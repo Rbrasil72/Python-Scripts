@@ -37,13 +37,13 @@ elif a >= b:
     print("a is greater than and equal to b")
 # elif statement using the "less than" conditional
 elif a < b:
-    print("a is less than b")
+    print("a is lesser than b")
 # elif statement using the "less than" conditional
 elif a <= b:
-    print("a is less than or equal to b")
+    print("a is lesser than or equal to b")
 # else statement to execute when none of the above conditions are met
 else:
-    print("a is not equal to b, and it's not greater or less than b")
+    print("a is not equal to b, and it's not greater or lesser than b")
 
 print("\n") ##########################################
 
@@ -52,7 +52,7 @@ c = 5
 d = 10
 
 if c > 0 and d < 15:
-    print("Both conditions are met: c is greater than 0 and d is less than 15.")
+    print("Both conditions are met: c is greater than 0 and d is lesser than 15.")
 
 print("\n") ##########################################
 
@@ -61,7 +61,7 @@ x = 8
 y = 20
 
 if x < 5 or y > 15:
-    print("At least one condition is met: x is less than 5 or y is greater than 15.")
+    print("At least one condition is met: x is lesser than 5 or y is greater than 15.")
 
 print("\n") ##########################################
 
