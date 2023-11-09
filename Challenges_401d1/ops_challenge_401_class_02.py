@@ -14,13 +14,12 @@
 
 #Date created: 16/10/2023
 #Last Revision: 16/10/2023
-#Purpose: Output linux commands using python3
+#Purpose: Asks for an IP, sends out ICMP packets to the IP and saves the output to a txt file
 
 #Run script with root privilages for better results
 
-#Must have multiping installed | run on the terminal "pip3 install multiping"
+#Must have ping3 installed | run on the terminal "pip3 install ping3"
 
-from socket import timeout
 import time
 from datetime import datetime
 from ping3 import ping, verbose_ping
