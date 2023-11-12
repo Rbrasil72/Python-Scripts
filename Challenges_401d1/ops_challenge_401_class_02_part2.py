@@ -12,8 +12,8 @@
 # / ::::::::::::: \                               =D-'
 #(_________________)
 
-# Date created: 16/10/2023
-# Last Revision: 16/10/2023
+# Date created: 9/11/2023
+# Last Revision: 12/11/2023
 # Purpose: Asks for an IP, sends out ICMP packets to the IP, saves the output to a txt file and sends the status of the IP to an user given gmail
 
 # User must have a gmail account with twofactorAuthentication on and use the authentication code as the password
