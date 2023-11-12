@@ -12,8 +12,8 @@
 # / ::::::::::::: \                               =D-'
 #(_________________)
 
-#Date created: 16/10/2023
-#Last Revision: 16/10/2023
+#Date created: 9/11/2023
+#Last Revision: 9/11/2023
 #Purpose: Asks for an IP, sends out ICMP packets to the IP and saves the output to a txt file
 
 #Run script with root privilages for better results
