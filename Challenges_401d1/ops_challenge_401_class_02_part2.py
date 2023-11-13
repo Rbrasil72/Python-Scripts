@@ -20,8 +20,6 @@
 
 # Run script with root privilages for better results
 
-# Must have ping3 installed | run on the terminal "pip3 install ping3"
-
 # Imports
 import time
 import smtplib
