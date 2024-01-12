@@ -12,3 +12,5 @@ Ask for an input from the user to chose from a selection 4 options, to encrypt a
 # ops_challenge_401_class_06_part2.py
 Ask for an input from the user to chose from a selection 4 options, to encrypt and decrypt a message or file
 
+# opschallange36-bannergrabber.py
+This script performs banner grabbing using Netcat, Telnet, and Nmap.
