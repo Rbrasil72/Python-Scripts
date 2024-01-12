@@ -14,7 +14,8 @@
 
 # Date created: 12/01/2024
 # Last Revision: 12/01/2024
-# Purpose: This script performs banner grabbing using Netcat, Telnet, and Nmap.
+# Purpose: This script performs banner grabbing using Netcat, Telnet, and Nmap by providing a IP or URL and port.
+# Note: Scanning using this script can take a while.
 
 # Imported libraries
 import subprocess
