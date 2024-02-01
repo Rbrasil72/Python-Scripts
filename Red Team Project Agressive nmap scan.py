@@ -25,7 +25,7 @@ def scan_hosts(ip_list, output_file):
         for ip in ip_list:
             report_file.write(f"Scanning {ip}...\n")
             try:
-                result = subprocess.run(['nmap','-sV','-A','-sV','-v', ip], capture_output=True, text=True, check=True)
+                result = subprocess.run(['nmap','-sV','-A','-O','-v', ip], capture_output=True, text=True, check=True)
                 report_file.write(result.stdout)
             except subprocess.CalledProcessError as e:
                 report_file.write(f"Error scanning {ip}: {e}\n")
