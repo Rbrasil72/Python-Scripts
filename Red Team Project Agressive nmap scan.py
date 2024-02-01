@@ -16,7 +16,7 @@
 
 # Date created: 01/02/2024
 # Last Revision: 01/02/2024
-# Purpose: Do an agrassive nmap scan for list of pre programed hosts for a Code_for_all Red Team project
+# Purpose: Do an agressive nmap scan for list of pre programed hosts for a Code_for_all Red Team project
 
 import subprocess
 
